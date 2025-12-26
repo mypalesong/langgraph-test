@@ -80,7 +80,7 @@ const config: Config = {
             },
             {
               label: '기본 개념',
-              to: '/category/기본-개념',
+              to: '/basics/what-is-langgraph',
             },
           ],
         },
